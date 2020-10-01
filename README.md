@@ -67,7 +67,7 @@ If you have any suggestions, feedback, questions, or bugs to report, feel free t
 - [/r/LearnJapanese Wiki](https://www.reddit.com/r/LearnJapanese/wiki/index) (additional resources, guides, etc.)
 
 
-### Special Thanks
+### Special Thanks To
 Genki Study Resources was made possible thanks to...
 - [The Japan Times](https://bookclub.japantimes.co.jp/en/), Eri Banno, Yoko Ikeda, Yutaka Ohno, Chikako Shinagawa, and Kyoko Tokashiki for Genki: An Integrated Course in Elementary Japanese.
 - Noriko Udagawa and Reiko Maruyama for some Illustrations that were used.
@@ -86,5 +86,5 @@ The following resources were used in this project. I couldn't have done it witho
 - [Noto CJK](https://www.google.com/get/noto/help/cjk/) and [Sawarabi Gothic](https://fonts.google.com/specimen/Sawarabi+Gothic) for the fonts used in the Hiragana/Katakana stroke order exercises.
 - [Genanki](https://github.com/kerrickstaley/genanki) for the simple package to create Anki decks
 
-### Donate
+### Donate Me to Support My Work
 Please see the [Donate page](https://sethclydesdale.github.io/genki-study-resources/donate/) for ways to support my work.
